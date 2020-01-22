@@ -1,0 +1,2 @@
+Placeholder. 
+the files here will be what is located in your project folder for gamemaker.
