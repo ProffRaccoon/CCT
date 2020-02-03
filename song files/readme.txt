@@ -4,4 +4,10 @@ Keep track of where the songs come from below, as it will be important later on.
 
 #########################################################
 Eighth Wonder - Neil cicierega,  CC-SA
+
+Mask of my own Face - Lemon demom (Neil Cicierega), CC-SA
+
 Rats - Jerma985, edit of "Hanging out" by Microsoft Kids, CC-SA
+
+Ultirat Showdown - Gaussian George, parody of Ultimate showdown by Lemon demon, and Rats from Jerma985. CC-SA (since it's a derivative work of the two.)
+
